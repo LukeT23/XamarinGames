@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "h0hfDcpBBQBcH+FDpAs5qM0ogYtuHTROtcQH0ktBvJNC+ovzq0+hFB84waDwrxg8YPmR0OWkt6J9udqvVOCMMw==",
+  "success": true,
+  "projectFilePath": "/Users/luketatro/Desktop/Xamarin Apps/XamarinGames/XamarinGames/XamarinGames/XamarinGames.csproj",
+  "expectedPackageFiles": [
+    "/Users/luketatro/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/luketatro/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/luketatro/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/luketatro/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/luketatro/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

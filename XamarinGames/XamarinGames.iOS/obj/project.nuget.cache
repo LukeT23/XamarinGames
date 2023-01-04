@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+EMb0krNy2cz2yApgk1g85+3KuzHuaFeorq5mJkUjD52KJsm00ALdNuwttHdxeH5tQnJK03NkAz+W5joCAMC3Q==",
+  "success": true,
+  "projectFilePath": "/Users/luketatro/Desktop/Xamarin Apps/XamarinGames/XamarinGames/XamarinGames.iOS/XamarinGames.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/luketatro/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/luketatro/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/luketatro/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
